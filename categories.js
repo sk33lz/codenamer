@@ -3,6 +3,8 @@ var categories = {
     "name": "SI Prefixes",
     "source": "http://en.wikipedia.org/wiki/Metric_prefix",
     "values": [
+      "quetta",
+      "ronna",
       "yotta",
       "zetta",
       "exa",
@@ -22,7 +24,9 @@ var categories = {
       "femto",
       "atto",
       "zepto",
-      "yocto"
+      "yocto",
+      "ronto",
+      "quecto"
     ]
   },
   "si_units": {
